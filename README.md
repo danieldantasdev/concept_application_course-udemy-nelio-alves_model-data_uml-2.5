@@ -29,3 +29,6 @@ postagens. Uma foto é referenciada pela URI de seu local de armazenamento. As f
 organizadas em álbuns, sendo que cada álbum possui um título.
 
 ![](./assets/exercise_3.jpg)
+
+![](./assets/relational_1.jpg)
+![](./assets/object_1.jpg)
