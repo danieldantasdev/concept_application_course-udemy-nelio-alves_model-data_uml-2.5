@@ -30,5 +30,6 @@ organizadas em álbuns, sendo que cada álbum possui um título.
 
 ![](./assets/exercise_3.jpg)
 
+## Diagram class and object
 ![](./assets/relational_1.jpg)
 ![](./assets/object_1.jpg)
