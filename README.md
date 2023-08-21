@@ -62,6 +62,9 @@ de listar a tabela do campeonato, ordenando os times por classificação, que é
 lugar por saldo de vitórias e em segundo lugar por saldo de gols.
 Instância mínima: 1 campeonato, 2 partidas, 2 times, 2 jogadores em cada time
 
+![](./assets/relational_3.jpg)
+![](./assets/object_3.jpg)
+
 > Exercício 3: Deseja-se fazer um sistema de rede social. Nesta rede social, os usuários podem seguir e
 ser seguidos por outros usuários. O perfil do usuário deve permitir cadastrar nome, email, data de
 nascimento, website, gênero, telefone e foto do perfil. Os usuários podem fazer postagens de texto em
