@@ -74,6 +74,9 @@ organizadas em álbuns, sendo que cada álbum possui um título.
 Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um
 álbum com mais de uma foto.
 
+![](./assets/relational_4.jpg)
+![](./assets/object_4.jpg)
+
 > Exercício 4: Deseja-se construir um sistema para gerenciar as informações dos participantes das
 atividades de um evento acadêmico. As atividades deste evento podem ser, por exemplo, palestras,
 cursos, oficinas práticas, etc. Cada atividade que ocorre possui nome, descrição, preço, e pode ser
@@ -81,7 +84,10 @@ dividida em vários blocos de horários (por exemplo: um curso de HTML pode ocor
 sendo necessário armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada
 participante, deseja-se cadastrar seu nome e email.
 Instância mínima: 2 atividades, 4 participantes, pelo menos uma atividade com mais de um bloco de
-horários.Exercício 5: Deseja-se fazer um sistema para manter dados de cidades (nome, estado, website), onde
+horários.Exercício 
+
+
+> 5: Deseja-se fazer um sistema para manter dados de cidades (nome, estado, website), onde
 cada cidade possui um ou mais restaurantes (nome, valor da refeição) e hotéis (nome, valor da diária).
 Além disso, deseja-se registrar pacotes turísticos vendidos. Para registrar um pacote turístico, deve-se
 escolher uma cidade, definir a data da viagem, o hotel de hospedagem e o número de dias de
