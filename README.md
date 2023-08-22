@@ -96,3 +96,6 @@ escolher uma cidade, definir a data da viagem, o hotel de hospedagem e o número
 permanência. Deve-se também definir se no pacote vai estar incluso ou não um restaurante e, se sim,
 quantas refeições por dia serão consumidas.
 Instância mínima: 1 cidade, 2 hotéis e 2 restaurantes, 2 pacotes turísticos.
+
+![](./assets/class_9.jpg)
+![](./assets/object_6.jpg)
