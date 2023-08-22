@@ -8,7 +8,7 @@ também deve ser capaz de exibir um relatório dos álbuns de um artista, o qual
 nome, ano, ou duração total do álbum. Um álbum pode ter a participação de vários artistas, sem
 distinção. Já a música pode possuir um ou mais autores e intérpretes (todos considerados artistas).
 
-![](./assets/exercise_1.jpg)
+![](./assets/class_1.jpg)
 
 > Exercício 2: Deseja-se construir um sistema para gerenciar as informações de campeonatos de
 handebol, que ocorrem todo ano. Deseja-se saber nome, data de nascimento, gênero e altura dos
@@ -19,7 +19,7 @@ já ocorridas e não ocorridas de um campeonato. O sistema deve também ser capa
 campeonato, ordenando os times por classificação, que é calculada em primeiro lugar por saldo de
 vitórias e em segundo lugar por saldo de gols.
 
-![](./assets/exercise_2.jpg)
+![](./assets/class_2.jpg)
 
 > Exercício 3: Deseja-se fazer um sistema de rede social. Nesta rede social, os usuários podem seguir e
 ser seguidos por outros usuários. O perfil do usuário deve permitir cadastrar nome, email, data de
@@ -28,10 +28,10 @@ sua própria "linha do tempo" (timeline) da rede social, sendo que podem anexar 
 postagens. Uma foto é referenciada pela URI de seu local de armazenamento. As fotos podem ser
 organizadas em álbuns, sendo que cada álbum possui um título.
 
-![](./assets/exercise_3.jpg)
+![](./assets/class_3.jpg)
 
 ## Diagram class and object
-![](./assets/relational_1.jpg)
+![](./assets/class_4.jpg)
 ![](./assets/object_1.jpg)
 
 # Capítulo: Associações e multiplicidade de papéis
@@ -49,7 +49,7 @@ nome, ano, ou duração total do álbum. Um álbum pode ter a participação de 
 distinção. Já a música pode possuir um ou marelational_2.jpgis autores e intérpretes (todos considerados artistas).
 Instância mínima: 2 artistas, 3 álbuns, 4 músicas
 
-![](./assets/relational_2.jpg)
+![](./assets/class_5.jpg)
 ![](./assets/object_2.jpg)
 
 > Exercício 2 (RESOLVIDO): Deseja-se construir um sistema para gerenciar as informações de
@@ -62,7 +62,7 @@ de listar a tabela do campeonato, ordenando os times por classificação, que é
 lugar por saldo de vitórias e em segundo lugar por saldo de gols.
 Instância mínima: 1 campeonato, 2 partidas, 2 times, 2 jogadores em cada time
 
-![](./assets/relational_3.jpg)
+![](./assets/class_6.jpg)
 ![](./assets/object_3.jpg)
 
 > Exercício 3: Deseja-se fazer um sistema de rede social. Nesta rede social, os usuários podem seguir e
@@ -74,7 +74,7 @@ organizadas em álbuns, sendo que cada álbum possui um título.
 Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um
 álbum com mais de uma foto.
 
-![](./assets/relational_4.jpg)
+![](./assets/class_7.jpg)
 ![](./assets/object_4.jpg)
 
 > Exercício 4: Deseja-se construir um sistema para gerenciar as informações dos participantes das
@@ -84,8 +84,10 @@ dividida em vários blocos de horários (por exemplo: um curso de HTML pode ocor
 sendo necessário armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada
 participante, deseja-se cadastrar seu nome e email.
 Instância mínima: 2 atividades, 4 participantes, pelo menos uma atividade com mais de um bloco de
-horários.Exercício 
+horários.Exercício
 
+![](./assets/class_8.jpg)
+![](./assets/object_5.jpg)
 
 > 5: Deseja-se fazer um sistema para manter dados de cidades (nome, estado, website), onde
 cada cidade possui um ou mais restaurantes (nome, valor da refeição) e hotéis (nome, valor da diária).
