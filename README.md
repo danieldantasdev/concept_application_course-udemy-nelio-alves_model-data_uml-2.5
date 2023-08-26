@@ -149,3 +149,6 @@ Cada livro possui um título, gênero, editora e número de páginas. Um livro p
 uma coleção. Cada livro também possui um valor diário de multa, caso o usuário devolva o livro
 com atraso em relação à data prevista de devolução.
 Instância mínima: 3 livros, 1 usuário, 2 empréstimos. Pelo menos um livro participando de uma coleção
+
+![](./assets/class_12.jpg)
+![](./assets/object_9.jpg)
