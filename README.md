@@ -207,3 +207,6 @@ número, data e horário do voo.
 Instância mínima: 2 pilotos, 3 passageiros, 2 voos. Pelo menos um passageiro com mais de um
 telefone. Pelo menos um voo com mais de um passageiro. Um dos pilotos deve ser passageiro de
 um voo (obviamente não pilotado por ele).
+
+![](./assets/class_17.jpg)
+![](./assets/object_12.jpg)
