@@ -176,6 +176,10 @@ telefones. Cada carro pertence a uma categoria, sendo que cada categoria de carr
 valor de diária de locação.
 Instância mínima: 1 cliente, 2 carros, 3 locações.
 
+![](./assets/class_13.jpg)
+![](./assets/class_14.jpg)
+![](./assets/object_10.jpg)
+
 > Exercício 2: Deseja-se fazer um sistema de pedidos. Um ou mais produtos podem ser vendidos
 em cada pedido, sendo que a cada produto pode ser dado um desconto diferente, e também cada
 produto pode ser vendido em uma ou mais unidades. Cada produto possui nome e preço, e pode
