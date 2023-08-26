@@ -139,6 +139,9 @@ aprovado em um curso se sua nota total for maior ou igual à nota mínima de apr
 para o curso.
 Instância mínima: 1 curso, 1 turma, 2 matrículas e 2 avaliações com resultados.
 
+![](./assets/class_11.jpg)
+![](./assets/object_8.jpg)
+
 > Exercício 3: Uma biblioteca deseja fazer o registro de seus empréstimos de livros. Quando um
 usuário pega um livro emprestado, deve ser registrada a data de empréstimo. Por padrão, o prazo
 de empréstimo é de dois dias, considerando atraso se o livro for devolvido depois deste tempo.
