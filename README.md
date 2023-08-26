@@ -193,6 +193,10 @@ pagamento possui um estado (pendente, quitado ou cancelado).
 Instância mínima: 1 cliente, 3 produtos, 2 pedidos, pelo menos um pedido com mais de um
 produto, pelo menos um pedido pago com cartão de crédito e um com boleto.
 
+![](./assets/class_15.jpg)
+![](./assets/class_16.jpg)
+![](./assets/object_11.jpg)
+
 > Exercício 3: Deseja-se fazer um sistema para gerenciar informações de uma companhia aérea.
 Para isto, deve-se manter um cadastro das pessoas no sistema, sendo que é possível ter
 passageiros e pilotos. Toda pessoa possui cpf, nome e sexo, enquanto que pilotos possuem um
